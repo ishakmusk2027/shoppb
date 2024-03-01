@@ -1,0 +1,41 @@
+{
+ "accounts": [
+  {
+   "name": "nitro",
+   "price": 1,
+   "tax": 2,
+   "emails": []
+  },
+  {
+   "name": "systemprojcet",
+   "price": 50000,
+   "tax": 52632,
+   "emails": [
+    "https://replit.com/@AnaseTony/Shop-Tony#index.js"
+   ]
+  },
+  {
+   "name": "steam",
+   "price": 3158,
+   "tax": 3325,
+   "emails": [
+    "zsadetsky7:twinky143",
+    "mnoles1210:Draconis12"
+   ]
+  },
+  {
+   "name": "visa",
+   "price": 10,
+   "tax": 11,
+   "emails": []
+  }
+ ],
+ "status": "open",
+ "admins": [
+  "963878764851384351"
+ ],
+ "ch": "985954078649614366",
+ "notif": "448597666658779146",
+ "blacklist": [],
+ "buy": "988218796764463164"
+}
